@@ -25,7 +25,7 @@ The case study uses Aum Shinrikyo as a historical example to examine how AI syst
 
 ## Contents
 
-* `aum-shinrikyo-ai-enabled-cbrn-risk-case-study.pdf`
+* `aum-shinrikyo-and-the-ai-uplift-problem.pdf`
   The full case study.
 
 ## Safety Note
